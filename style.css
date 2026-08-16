@@ -1,0 +1,58 @@
+#theImage {
+  visibility: visible;
+  align: center;
+  height: 320px;
+  width: 470px;
+  opacity: 0.83;
+  
+}
+#broadcaster{
+  color: black;
+  font-size: 35px;
+  font-family:Microsoft PhagsPa;
+  font-weight: bold;
+  position: absolute;
+  left: 98px;
+  top: 39px;
+}
+#user{
+  font-family:Microsoft PhagsPa;
+  font-weight: bold;
+  font-size: 25px;
+  position: absolute;
+  left:183px;
+  top: 105px;
+}
+#message{
+  font-family:Microsoft PhagsPa;
+   position: absolute;
+  font-size: 19px;
+  left:183px;
+  top: 145px;
+  width: 250px;
+  height: 250px;
+}
+#pic{
+  position: absolute;
+  left:60px;
+  top: 110px;
+  height: 107px;
+  width: 107px;
+  z-index: -1;
+  background-color:white;
+  
+}
+#section {
+position:absolute;
+top:320px;
+}
+#emote
+{
+  height: 30px;
+  width: 30px;
+}
+#badge
+{
+  height: 20px;
+  width: 20px;
+}
